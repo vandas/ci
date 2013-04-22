@@ -4,7 +4,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 class Hello extends CI_Controller 
 {
 	function sayhello() {
-		echo 'hello word';
+		echo 'hello word GIT test';
 	}
 	
 
